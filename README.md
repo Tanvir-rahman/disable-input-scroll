@@ -14,7 +14,7 @@ npm install disable-input-scroll --save
 ## Usage
 
 ```html
-  <input type="number" value="0" class="no-scroll" />
+<input type="number" value="0" class="no-scroll" />
 ```
 
 ```javascript
