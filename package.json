@@ -1,0 +1,25 @@
+{
+  "name": "disable-input-scroll",
+  "version": "0.1.0",
+  "description": "Disable scroll of number type input",
+  "main": "index.js",
+  "keywords": [
+    "disable-input-scroll",
+    "disable-scroll",
+    "scroll",
+    "no-scroll",
+    "input",
+    "npm",
+    "yarn"
+  ],
+  "author": "Tanvir Rahman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanvir-rahman/disable-input-scroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tanvir-rahman/disable-input-scroll/issues"
+  },
+  "homepage": "https://github.com/Tanvir-rahman/disable-input-scroll#readme"
+}
